@@ -99,4 +99,4 @@ function modalWindow(event) {
   `)
 
    instance.show()
-  }
+}
